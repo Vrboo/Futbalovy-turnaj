@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"sk.lukasbudaj"},{"l":"sk.lukasbudaj.enums"},{"l":"sk.lukasbudaj.gui"},{"l":"sk.lukasbudaj.intefaces"},{"l":"sk.lukasbudaj.utils"}];updateSearchResults();
