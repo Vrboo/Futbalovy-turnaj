@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EsportTurnaj:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/EsportTurnaj_jar</output-path>
+    <root id="archive" name="EsportTurnaj.jar">
+      <element id="module-output" name="EsportTurnaj" />
+      <element id="library" level="module" name="miglayout15-swing.jar" module-name="EsportTurnaj" />
+      <element id="library" level="module" name="jgoodies-forms-1.8.0.jar" module-name="EsportTurnaj" />
+    </root>
+  </artifact>
+</component>
