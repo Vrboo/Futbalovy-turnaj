@@ -1,7 +1,7 @@
 # Futbalový turnaj app
 ### Desktopová aplikácia s jednoduchým responzívnym GUI (grafickým rozhraním) 
 
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;Pozn.: Spustiteľný súbor aplikácie umiestnený - </sub>  
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;Pozn.: Spustiteľný súbor aplikácie - run-app.bat </sub>  
 
 
 
