@@ -1,7 +1,7 @@
 # Futbalový turnaj app
 ### Desktopová aplikácia s jednoduchým responzívnym GUI (grafickým rozhraním) 
 
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;Pozn.: Spustiteľný súbor aplikácie - run-app.bat </sub>  
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;Pozn.: Spustiteľný súbor aplikácie - classes/artifacts/EsportTurnaj_jar/run-app.bat </sub>  
 
 
 
